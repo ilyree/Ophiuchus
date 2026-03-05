@@ -6,7 +6,5 @@ misc scripts
 - kingdomkey: password generator 
 
 offensive scripts
-- oathkeeper: chococat mousejail 
-- divine-rose: popup test
+- oathkeeper: chococat mousejail + msg system
 - lionheart: mousejail test in powershell
-- metal-chocobo: binding exe's to services 
