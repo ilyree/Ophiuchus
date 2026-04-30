@@ -1,5 +1,5 @@
 defensive scripts 
-- one-winged-angel: regex 
+- one-winged-angel: set reg keys
 - spellbinder: checks legacy windows features 
 
 misc scripts 
